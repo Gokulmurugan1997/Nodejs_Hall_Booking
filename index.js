@@ -34,7 +34,7 @@ const rooms = [
 const bookings = [
   {
     bookingId: 1,
-    customerName: "suriya",
+    customerName: "Gokul",
     roomId: "01",
     date: format(new Date("07-12-2023"), "dd-MMM-yyyy"),
     start: "08:00",
@@ -43,7 +43,7 @@ const bookings = [
   },
   {
     bookingId: 2,
-    customerName: "udhaya",
+    customerName: "Dhina",
     roomId: "02",
     date: format(new Date("07-14-2023"), "dd-MMM-yyyy"),
     start: "08:00",
@@ -52,7 +52,7 @@ const bookings = [
   },
   {
     bookingId: 3,
-    customerName: "suriya",
+    customerName: "Kavin",
     roomId: "03",
     date: format(new Date("07-12-2023"), "dd-MMM-yyyy"),
     start: "08:00",
